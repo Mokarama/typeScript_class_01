@@ -7,7 +7,7 @@ studentData=[];
 function fruitsData():string{
     var item=1;
     if(item>1){
-        return['apple', 'banana'];
+        return  'banana';
     }
 
     else{

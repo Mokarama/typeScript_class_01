@@ -1,20 +1,20 @@
 /**********Object */
 
-let c: Object;
+// let c: Object;
 
-let c:{
-    name:string,
-    age:number,
-    address:boolean,
-};
+// let c:{
+//     name:string,
+//     age:number,
+//     address:boolean,
+// };
 
 
 
-var userData={
-    name:'shanta',
-    age:20,
-    city:'Dhaka'
-}
+// var userData={
+//     name:'shanta',
+//     age:20,
+//     city:'Dhaka'
+// }
 
 /************* */
 var userData:{
