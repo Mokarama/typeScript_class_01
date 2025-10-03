@@ -1,6 +1,20 @@
 "use strict";
-//Object.defineProperty(exports, "__esModule", { value: true });
+Object.defineProperty(exports, "__esModule", { value: true });
 console.log('dom');
+// console.log("dom");
+// console.log("dom");
+// console.log("dom");
 var headingEl = document.querySelector('h1');
+// var headingEl=document.querySelector('h1');
+// var headingEl=document.querySelector('h1');
+// var headingEl=document.querySelector('h1');
+// var headingEl=document.querySelector('h1');
+// var headingEl=document.querySelector('h1');
+// console.log(headingEl?.classList);
+// console.log(headingEl?.classList);
+// console.log(headingEl?.classList);
+// console.log(headingEl?.classList);
+// console.log(headingEl?.classList);
+// console.log(headingEl?.classList);
 console.log(headingEl?.classList);
 //# sourceMappingURL=dom.js.map
